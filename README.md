@@ -1,2 +1,2 @@
 # bitcoin-price-telegram
-Get Bitcoin price and send a telegram message to your private chat
+Get Bitcoin and Ethereum price and send a telegram message to your private chat
